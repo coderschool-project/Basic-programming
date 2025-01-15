@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.exe
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.deps.json
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.dll
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.pdb
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.dll
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\refint\Operators_Q1_Operators.dll
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.pdb
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Operators_Q1_Operators\obj\Debug\net8.0\ref\Operators_Q1_Operators.dll
