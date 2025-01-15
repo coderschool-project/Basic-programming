@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.exe
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.deps.json
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.dll
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.pdb
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.dll
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\refint\PLC#_C#_101.dll
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.pdb
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Programming_C#_101\obj\Debug\net8.0\ref\PLC#_C#_101.dll
