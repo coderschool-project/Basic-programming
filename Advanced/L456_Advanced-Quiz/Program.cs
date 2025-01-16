@@ -21,8 +21,31 @@ Below 18.5    Underweight
 23 - 27.5     Overweight
 Above 27.5    Obese
 */
+void BMICalculation()
+{
+    Console.WriteLine("Enter your weight in kilograms: ");
+    double weight = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Enter your height in meters: ");
+    double height = Convert.ToDouble(Console.ReadLine());
+    double bmi = weight / (height * height);
+    if (bmi <= 18.5)
+    {
+        Console.WriteLine("Underweight");
+    }
+    else if (bmi <= 23)
+    {
+        Console.WriteLine("Normal weight");
+    }
+    else if (bmi <= 27.5)
+    {
+        Console.WriteLine("Overweight");
+    }
+    else
+    {
+        Console.WriteLine("Obese");
+    }
 
-
+}
 
 
 
@@ -51,7 +74,26 @@ Write a C# program to:
 - calculate and display the discount given (in percentage)
 - calculate and display the discount amount
 */
-
+void DiscountCalculation()
+{
+    Console.WriteLine("Enter the amount spent: ");
+    double amount = Convert.ToDouble(Console.ReadLine());
+    double discountRate = 0;
+    if (amount > 100 && amount <= 500)
+    {
+        discountRate = 5;
+    }
+    else if (amount > 500 && amount <= 1000)
+    {
+        discountRate = 10;
+    }
+    else if (amount > 1000)
+    {
+        discountRate = 20;
+    }
+    Console.WriteLine("Discount rate: " + discountRate);
+    Console.WriteLine("Discount amount: " + (amount * discountRate / 100));
+}
 
 
 
@@ -81,6 +123,15 @@ Enter a number : 8
 11 88
 12 96
 */
+void CreateMultiplicationTable()
+{
+    Console.WriteLine("Enter a number: ");
+    int number = Convert.ToInt32(Console.ReadLine());
+    for (int i = 1; i <= 12; i++)
+    {
+        Console.WriteLine(number + " x " + i + " = " + number * i);
+    }
+}
 
 
 
@@ -99,6 +150,43 @@ Example:
 [0] Exit
 ---------------------------------
 */
+void AdminMenu()
+{
+    Console.WriteLine("------------- MENU --------------");
+    Console.WriteLine("[1] Calculate Body Mass Index");
+    Console.WriteLine("[2] Calculate Discount");
+    Console.WriteLine("[3] Display Multiplication Table");
+    Console.WriteLine("[0] Exit");
+    Console.WriteLine("---------------------------------");
+    int option = 0;
+    while (option != 0)
+    {
+        Console.WriteLine("Enter your option: ");
+        option = Convert.ToInt32(Console.ReadLine());
+        switch (option)
+        {
+            case 1:
+                BMICalculation();
+                break;
+            case 2:
+                DiscountCalculation();
+                break;
+            case 3:
+                CreateMultiplicationTable();
+                break;
+            case 0:
+                Console.WriteLine("Exiting...");
+                break;
+            default:
+                Console.WriteLine("Invalid option. Please try again.");
+                break;
+        }
+    }
+}
+
+AdminMenu();
+
+
 
 
 
@@ -125,6 +213,29 @@ List of words:
 Total number of letters: 16
 */
 
+void WordList()
+{
+    List<string> words = new List<string>();
+    for (int i = 0; i < 5; i++)
+    {
+        Console.WriteLine("Enter a word (or 'x' to stop): ");
+        string word = Console.ReadLine();
+        if (word == "x")
+        {
+            break;
+        }
+        words.Add(word);
+    }
+    Console.WriteLine("List of words:");
+    foreach (string word in words)
+    {
+        Console.WriteLine("- " + word);
+    }
+    Console.WriteLine("Total number of letters: " + words.Sum(word => word.Length));
+}
+
+WordList();
+
 
 
 /*
@@ -146,5 +257,38 @@ Guess the number (between 1 and 100, or enter -1 to quit): 30
 Congratulations! You guessed the correct number in 4 tries.
 
 */
+
+void NumberGuessingGame()
+{
+    Random random = new Random();
+    int number = random.Next(1, 101);
+    int tries = 0;
+    while (number != -1 && tries < 5)
+    {
+        Console.WriteLine("Guess the number (between 1 and 100, or enter -1 to quit): ");
+        int guess = Convert.ToInt32(Console.ReadLine());
+        if (guess == -1)
+        {
+            Console.WriteLine("Game ended.");
+            break;
+        }
+        else if (guess > number)
+        {
+            Console.WriteLine("Too high!");
+        }
+        else if (guess < number)
+        {
+            Console.WriteLine("Too low!");
+        }
+        else
+        {
+            Console.WriteLine("Congratulations! You guessed the correct number in " + tries + " tries.");
+            break;
+        }
+        tries++;
+    }
+}
+
+NumberGuessingGame();
 
 

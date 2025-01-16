@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.exe
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.deps.json
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.dll
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.pdb
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.dll
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\refint\Lesson 4 , 5 & 6 Quiz.dll
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.pdb
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Advanced\L456_Advanced-Quiz\obj\Debug\net8.0\ref\Lesson 4 , 5 & 6 Quiz.dll

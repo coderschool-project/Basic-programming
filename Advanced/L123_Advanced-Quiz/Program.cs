@@ -100,7 +100,7 @@ Console.WriteLine("Player's health: " + playerHealth);
 //Welcome to the game, Alice!
 
 Console.WriteLine("Enter your name: ");
-string playerName = Console.ReadLine();
+string playerName = Console.ReadLine() ?? string.Empty;
 Console.WriteLine("Welcome to the game, " + playerName + "!");
 
 //Part 8
@@ -113,6 +113,12 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Expected Output:
 //The area of the rectangular movement space is: 50
 
+Console.WriteLine("Part 8:");
+int length = 10;
+int width = 5;
+int area = length * width;
+Console.WriteLine("The area of the rectangular movement space is: " + area);
+
 
 //Part 9
 
@@ -123,6 +129,10 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Player's Level: Level 10
 //Player's Level as an integer: 10
 
+Console.WriteLine("Player's Level: Level 10");
+string playerLevel = "Level 10";
+int playerLevelAsInteger = Convert.ToInt32(playerLevel.Replace("Level ", ""));
+Console.WriteLine("Player's Level as an integer: " + playerLevelAsInteger);
 
 //Part 10
 
@@ -131,6 +141,9 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Test Data:
 //Expected Output:
 //The total score is: 150
+
+Console.WriteLine("The total score is: " + (100 + 50));
+
 
 
 
@@ -152,6 +165,12 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //The string in lower case: welcome to the world of c#
 //The string in title case: Welcome To The World Of C#
 
+Console.WriteLine("Enter the string: ");
+string inputString = Console.ReadLine() ?? "Welcome to the world of C#";
+Console.WriteLine("The string in upper case: " + inputString.ToUpper());
+Console.WriteLine("The string in lower case: " + inputString.ToLower());
+Console.WriteLine("The string in title case: " + System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(inputString));
+
 
 
 
@@ -166,6 +185,14 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Expected Output:
 //The compound interest is: 157.63
 
+Console.WriteLine("Enter the principal amount: ");
+double principalAmount = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Enter the interest rate: ");
+double interestRate = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Enter the time period: ");
+double timePeriod = Convert.ToDouble(Console.ReadLine());
+double compoundInterest = principalAmount * Math.Pow((1 + interestRate / 100), timePeriod) - principalAmount;
+Console.WriteLine("The compound interest is: " + compoundInterest);
 
 //Part 13
 
@@ -180,7 +207,16 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //First number: 10
 //Second number: 5
 
-
+Console.WriteLine("Enter the first number: ");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the second number: ");
+int secondNumber = Convert.ToInt32(Console.ReadLine());
+int temp = firstNumber;
+firstNumber = secondNumber;
+secondNumber = temp;
+Console.WriteLine("After swapping:");
+Console.WriteLine("First number: " + firstNumber);
+Console.WriteLine("Second number: " + secondNumber);
 
 
 //Part 14
@@ -193,7 +229,13 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //The 3 numbers are: 25 78 87
 //The greatest number is: 87
 
-
+Console.WriteLine("Enter the first number: ");
+firstNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the second number: ");
+secondNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the third number: ");
+int thirdNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("The 3 numbers are: " + firstNumber + " " + secondNumber + " " + thirdNumber);
 
 //Part 15
 
@@ -204,6 +246,20 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Enter the second number: 18
 //Expected Output:
 //The GCD of 12 and 18 is: 6
+
+
+Console.WriteLine("Enter the first number: ");
+firstNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the second number: ");
+secondNumber = Convert.ToInt32(Console.ReadLine());
+int gcd = firstNumber % secondNumber;
+while (gcd != 0)
+{
+    firstNumber = secondNumber;
+    secondNumber = gcd;
+    gcd = firstNumber % secondNumber;
+}
+Console.WriteLine("The GCD of " + firstNumber + " and " + secondNumber + " is: " + secondNumber);
 
 
 
@@ -225,6 +281,10 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Expected Output:
 //The volume of the sphere is: 113.09733552923255
 
+Console.WriteLine("Enter the radius of the sphere: ");
+double radius = Convert.ToDouble(Console.ReadLine());
+double volume = (4.0 / 3.0) * Math.PI * Math.Pow(radius, 3);
+Console.WriteLine("The volume of the sphere is: " + volume);
 
 //Part 17
 
@@ -237,6 +297,15 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Expected Output:
 //The index of 'o' starting from position 5 is: 7
 
+Console.WriteLine("Enter the string: ");
+inputString = Console.ReadLine() ?? string.Empty;
+Console.WriteLine("Enter the character to find: ");
+string findCharacter = Console.ReadLine() ?? string.Empty;
+Console.WriteLine("Enter the starting position: ");
+int startingPosition = Convert.ToInt32(Console.ReadLine());
+int index = inputString.IndexOf(findCharacter, startingPosition);
+Console.WriteLine("The index of '" + findCharacter + "' starting from position " + startingPosition + " is: " + index);
+
 
 //Part 18
 
@@ -247,6 +316,13 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Enter the character to remove: p
 //Expected Output:
 //The string after removing 'p' is: ale
+
+Console.WriteLine("Enter the string: ");
+inputString = Console.ReadLine() ?? string.Empty;
+Console.WriteLine("Enter the character to remove: ");
+string removeCharacter = Console.ReadLine() ?? string.Empty;
+string resultString = inputString.Replace(removeCharacter, "");
+Console.WriteLine("The string after removing '" + removeCharacter + "' is: " + resultString);
 
 
 
@@ -262,6 +338,15 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //Expected Output:
 //The string after replacing 'a' with 'o' is: bonono
 
+Console.WriteLine("Enter the string: ");
+inputString = Console.ReadLine() ?? string.Empty;
+Console.WriteLine("Enter the character to replace: ");
+string replaceCharacter = Console.ReadLine() ?? string.Empty;
+Console.WriteLine("Enter the character to replace with: ");
+string replaceWithCharacter = Console.ReadLine() ?? string.Empty;
+resultString = inputString.Replace(replaceCharacter, replaceWithCharacter);
+Console.WriteLine("The string after replacing '" + replaceCharacter + "' with '" + replaceWithCharacter + "' is: " + resultString);
+
 
 //Part 20
 
@@ -275,11 +360,11 @@ Console.WriteLine("Welcome to the game, " + playerName + "!");
 //The substring from index 3 to 7 is: lo w
 
 Console.WriteLine("Enter the string: ");
-string inputString = Console.ReadLine();
+inputString = Console.ReadLine() ?? string.Empty;
 Console.WriteLine("Enter the start index: ");
-int startIndex = Convert.ToInt32(Console.ReadLine());
+int startIndex = Convert.ToInt32(Console.ReadLine() ?? string.Empty);
 Console.WriteLine("Enter the end index: ");
-int endIndex = Convert.ToInt32(Console.ReadLine());
+int endIndex = Convert.ToInt32(Console.ReadLine() ?? string.Empty);
 string substring = inputString.Substring(startIndex, endIndex - startIndex + 1);
 Console.WriteLine("The substring from index " + startIndex + " to " + endIndex + " is: " + substring);
 
