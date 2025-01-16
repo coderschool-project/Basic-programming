@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.exe
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.deps.json
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.dll
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.pdb
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.dll
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\refint\Scope and Conditional Flow_Q1_If_Statements.dll
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.pdb
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Scope_and_Conditional_Flow\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\ref\Scope and Conditional Flow_Q1_If_Statements.dll

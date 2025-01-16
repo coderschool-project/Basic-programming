@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.exe
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.deps.json
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.dll
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.pdb
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.dll
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\refint\Conversion & Operators_Q3_Conversion.dll
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.pdb
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Optionals\Conversion\obj\Debug\net8.0\ref\Conversion & Operators_Q3_Conversion.dll

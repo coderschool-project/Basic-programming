@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.exe
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.deps.json
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.dll
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.pdb
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.dll
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\refint\Methods & Loops_Q2_While_Loops.dll
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.pdb
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\ref\Methods & Loops_Q2_While_Loops.dll

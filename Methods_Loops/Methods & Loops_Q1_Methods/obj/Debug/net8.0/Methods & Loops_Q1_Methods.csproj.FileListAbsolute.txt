@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\bin\Debug\net8.0\Methods & Loops_Q1_Methods.exe
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\bin\Debug\net8.0\Methods & Loops_Q1_Methods.deps.json
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\bin\Debug\net8.0\Methods & Loops_Q1_Methods.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\bin\Debug\net8.0\Methods & Loops_Q1_Methods.dll
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\bin\Debug\net8.0\Methods & Loops_Q1_Methods.pdb
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.dll
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\refint\Methods & Loops_Q1_Methods.dll
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.pdb
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\Methods & Loops_Q1_Methods.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Methods_Loops\Methods & Loops_Q1_Methods\obj\Debug\net8.0\ref\Methods & Loops_Q1_Methods.dll

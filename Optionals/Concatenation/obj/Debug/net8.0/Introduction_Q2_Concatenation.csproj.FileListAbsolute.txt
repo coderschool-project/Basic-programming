@@ -1,0 +1,15 @@
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.AssemblyInfoInputs.cache
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.AssemblyInfo.cs
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.csproj.CoreCompileInputs.cache
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.sourcelink.json
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.exe
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.deps.json
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.runtimeconfig.json
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.dll
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.pdb
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.dll
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\refint\Introduction_Q2_Concatenation.dll
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.pdb
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.genruntimeconfig.cache
+C:\Project\CoderSchool\Basic-programming\Optionals\Concatenation\obj\Debug\net8.0\ref\Introduction_Q2_Concatenation.dll
